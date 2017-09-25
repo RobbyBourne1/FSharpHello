@@ -5,9 +5,6 @@ open System
 let add x y = 
     x + y
 
-// let printAdd x y = 
-//     printfn add x y
-
 
 [<EntryPoint>]
 let main argv =
